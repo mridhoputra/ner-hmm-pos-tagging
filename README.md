@@ -1,4 +1,4 @@
-# Named-Entity Recognition pada Bahasa Indonesia menggunakan Metode Hidden Markov Model dan POS-Tagging
+# Named-Entity Recognition pada teks Berbahasa Indonesia menggunakan Metode Hidden Markov Model dan POS-Tagging
 
 Project Tugas Akhir ini dibuat untuk menyelesaikan pendidikan Strata-1 pada jurusan Teknik Informatika, Universitas Sriwijaya.
 
